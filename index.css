@@ -32,4 +32,8 @@ td{
 
 .Footer {
     text-align: center;
+    height: 50px;
+}
+p{
+    text-align: left;
 }
