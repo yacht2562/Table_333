@@ -3,3 +3,9 @@ table,th,td{
     border-collapse: collapse;
 
 }
+table {
+    width: 50%;
+}
+th{
+    height: 70px;
+}
