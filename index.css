@@ -1,10 +1,20 @@
+body{
+    justify-content: center;
+    text-align: center;
+}
+
+table {
+    margin: auto auto;
+}
+
+
 table,th,td{
     border: 1px solid black;
     border-collapse: collapse;
 
 }
 table {
-    width: 50%;
+    width: 80%;
 }
 th{
     height: 70px;
@@ -12,4 +22,14 @@ th{
 }
 td{
     padding: 10px;
+    
+}
+
+.contents {
+    height: 300px;
+    text-align: center;
+}
+
+.Footer {
+    text-align: center;
 }
